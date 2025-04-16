@@ -1,14 +1,17 @@
 
 # 🗂️ C++ Version Control System — A Mini Git Clone
 
-A lightweight **version control system** written in **C++**, inspired by Git, that lets you:
+Thank You to Uzairahmednasir for making this amazing project💛      
+We are ***TEAM ENIGMA from DAU**       
+We have reaserched on this version-control-system project and its working under the course IT206 of DAU       
+This is a lightweight **version control system** written in **C++**, inspired by **Git**, that lets you:
 - Manage multiple versions of your project files
 - Create commits
 - Track and display commit history
 - Revert to any previous commit
 - Simulate staging and commit flow like real Git
 
-> 🏁 **Final Semester Project** for **Data Structures & Algorithms Lab**  
+> 🏁 This is the Project of Uzairahmednasir for **Data Structures & Algorithms Lab**  
 > 🎓 Lahore Garrison University  
 > 👩‍🏫 Instructor: Mam. Raeena Tauqir
 
