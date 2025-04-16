@@ -204,7 +204,7 @@ A: No, this is purely local and single-user. Think of it as Git’s "bare bones"
 ## 👨‍💻 Author
 
 Made with 🔥 by **[Aditya Dave]**  
-GitHub: [Aditya-Dave503](https://github.com/Aditya-Dave503)) 
+GitHub: [Aditya-Dave503](https://github.com/Aditya-Dave503)
 Email: adityadave049@gmail.com 
 
 Made with 🔥 by **[Aaryan Modi]**  
