@@ -203,9 +203,21 @@ A: No, this is purely local and single-user. Think of it as Git’s "bare bones"
 
 ## 👨‍💻 Author
 
-Made with 🔥 by **[Your Name Here]**  
-GitHub: [yourusername](https://github.com/yourusername)  
-Email: youremail@example.com  
+Made with 🔥 by **[Aditya Dave]**  
+GitHub: [Aditya-Dave503]((https://github.com/Aditya-Dave503))  
+Email: adityadave049@gmail.com 
+
+Made with 🔥 by **[Aaryan Modi]**  
+GitHub: [Aaryan-Modi](https://github.com/Aaryan-Modi)  
+Email: aaryan.spdev@gmail.com
+
+Made with 🔥 by **[Rudra Bhatt]**  
+GitHub: [RudraBhat](https://github.com/RudraBhat)  
+Email: youremail@example.com 
+
+Made with 🔥 by **[Jay Limbasiya]**  
+GitHub: [Jay0001-debug](https://github.com/Jay0001-debug)  
+Email: jaylimbasiya0001@gmail.com
 
 ---
 
