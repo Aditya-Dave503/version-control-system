@@ -69,6 +69,9 @@ g++ main.cpp -o vcs
 The system is entirely CLI-based. Here's how you use it:
 
 ```bash
+# Initialize empty git repository
+./vcs init
+
 # Add file to staging area
 ./vcs add main.cpp
 
@@ -130,10 +133,13 @@ The system is entirely CLI-based. Here's how you use it:
 ## 🧪 Sample Session
 
 ```bash
+> ./vcs init
+Empty reposity initialized
+
 > ./vcs add main.cpp
 File main.cpp added to staging area.
 
-> ./vcs commit "Added main functionality"
+> ./vcs commit -m "Added main functionality"
 Commit 1 created.
 
 > ./vcs add gitClass.cpp
@@ -206,7 +212,7 @@ A: No, this is purely local and single-user. Think of it as Git’s "bare bones"
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Team Members of TEAM ENIGMA
 
 Made with 🔥 by **[Aditya Dave]**  
 GitHub: [Aditya-Dave503](https://github.com/Aditya-Dave503)  
