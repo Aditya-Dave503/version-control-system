@@ -44,6 +44,24 @@ This is a **minimal Git clone** built from scratch using **C++**, showcasing how
 
 ---
 
+## 🧰 Build & Run
+
+### 🔧 Prerequisites
+- Linux/Mac OS or WSL
+- A C++ compiler (g++, clang, etc.)
+
+### ⚙️ Compile
+```bash
+g++ main.cpp -o vcs
+```
+
+### ▶️ Run
+```bash
+./vcs <command> [arguments]
+```
+
+---
+
 ## 🛠️ How It Works
 
 ### 📌 Command-Based System
@@ -160,24 +178,6 @@ Reverted to commit 1: "Added main functionality"
 | 🗂️ File system trees | Snapshots saved in `.vcs/commits/<id>` |
 | 🧠 Pointers | Used to link commit nodes and traverse history |
 | 📋 Command Arguments | Parsed using `argc` and `argv[]` in C++ |
-
----
-
-## 🧰 Build & Run
-
-### 🔧 Prerequisites
-- Linux/Mac OS or WSL
-- A C++ compiler (g++, clang, etc.)
-
-### ⚙️ Compile
-```bash
-g++ main.cpp -o vcs
-```
-
-### ▶️ Run
-```bash
-./vcs <command> [arguments]
-```
 
 ---
 
