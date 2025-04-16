@@ -213,7 +213,7 @@ Email: aaryan.spdev@gmail.com
 
 Made with 🔥 by **[Rudra Bhatt]**  
 GitHub: [RudraBhat](https://github.com/RudraBhat)  
-Email: youremail@example.com 
+Email: rudra.bhatt.230106@gmail.com
 
 Made with 🔥 by **[Jay Limbasiya]**  
 GitHub: [Jay0001-debug](https://github.com/Jay0001-debug)  
