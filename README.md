@@ -34,6 +34,7 @@ This is a **minimal Git clone** built from scratch using **C++**, showcasing how
 
 | Feature | Description |
 |--------|-------------|
+| 🚀 `init` | Create an empty repository |
 | 📦 `add` | Adds files to the staging area |
 | 📝 `commit` | Creates a snapshot of the current project (like Git commits) |
 | 🔍 `log` | Displays the list of all commits in order |
@@ -165,11 +166,12 @@ Reverted to commit 1: "Added main functionality"
 ## 🧰 Build & Run
 
 ### 🔧 Prerequisites
+- Linux/Mac OS or WSL
 - A C++ compiler (g++, clang, etc.)
 
 ### ⚙️ Compile
 ```bash
-g++ main.cpp gitClass.cpp commitNodeList.cpp -o vcs
+g++ main.cpp -o vcs
 ```
 
 ### ▶️ Run
